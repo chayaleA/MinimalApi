@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3HAItaC3wOmwg+F6kAoX1NgOqST+unDuBKnbgs7g/1HEelpvGviWS61p/k8837upkqenEpym2/6JvSyOv4Nhw==",
+  "dgSpecHash": "g3pDEohmC6T7ZeAhc1xgP4VJBtvEm34TOa7Ue63GOTY7APe/DA4erHUSQP67HTWSa2wh5JLhFY6hesE7pCYK1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\חיהלה\\תכנות\\שנה ב\\פרקטיקוד\\פרקטיקוד4\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\חיהלה\\תכנות\\שנה ב\\פרקטיקוד\\פרקטיקוד 5\\MinimalApi\\TodoApi - server\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
