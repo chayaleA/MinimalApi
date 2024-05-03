@@ -308,3 +308,4 @@ C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\פרקטיקוד\פרקט
 C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\פרקטיקוד\פרקטיקוד 5\MinimalApi\TodoApi - server\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\פרקטיקוד\פרקטיקוד 5\MinimalApi\TodoApi - server\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\פרקטיקוד\פרקטיקוד 5\MinimalApi\TodoApi - server\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\user1\Desktop\חיהלה\תכנות\שנה ב\פרקטיקוד\פרקטיקוד 5\MinimalApi\TodoApi - server\bin\Debug\net8.0\package-lock.json

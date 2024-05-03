@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-axios.defaults.baseURL = "https://todoserver-qar3.onrender.com";
+axios.defaults.baseURL = process.env.API;
 
 axios.interceptors.response.use(
   response => response,
