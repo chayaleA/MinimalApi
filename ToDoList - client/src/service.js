@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-axios.defaults.baseURL = process.env.API;
+axios.defaults.baseURL = process.env.REACT_APP_API;
 
 axios.interceptors.response.use(
   response => response,
